@@ -1,2 +1,3 @@
 My new file
 commiting in dev branch
+Commiting in master branch
